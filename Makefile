@@ -2,6 +2,7 @@
 commit: 
 	tar -cz *.tex | openssl enc -e -aes-256-cbc -out material.enc
 	git commit material.enc -m "a new commit"
+	git push
 
 update:
 	git pull
