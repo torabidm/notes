@@ -1,4 +1,4 @@
 # notes
 my reading notes
 
-encrypted, for personal use only
+encrypted, for private use
